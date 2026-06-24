@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Divya Simhal 👋</h1>
 
-<h3 align="center">AI Engineer in the making agents | Building things with LLMs, agents & full-stack apps</h3>
+<h3 align="center">AI Engineer in the making 🤖 | Building things with LLMs, agents & full-stack apps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
@@ -23,7 +23,7 @@
 - 🔭 Currently **actively looking for opportunities** as an **AI Engineer / Software Engineer**
 - 🌱 Learning by building — every project below taught me something new about agents, RAG, or full-stack architecture
 - 💬 Comfortable across the stack: **FastAPI, Next.js, LangGraph, PostgreSQL, Docker**
-- 📫 Reach me at **divya04simhal@gmail.com.com**
+- 📫 Reach me at **divya04simhal@gmail.com**
 - ⚡ Fun fact: I'd rather debug a LangGraph loop node at midnight than leave a bug unsolved
 
 ---
@@ -73,10 +73,9 @@ response_time: usually under 24h
 | 🗣️ [**Verbase**](https://github.com/nikkisimhal/verbase) | Natural language → SQL tool — ask questions in plain English, get instant query results | FastAPI · Groq LLM · SQLite |
 | 📍 [**Smart Nearby Places Recommender**](https://github.com/nikkisimhal/smart-nearby-places) | Mood-based place recommender with favorites & history, built on live location data | FastAPI · Next.js · Leaflet · Geoapify |
 | 🩺 [**Vitals**](https://github.com/nikkisimhal/vitals) | Diabetes risk predictor with secure auth and a clean dashboard | FastAPI · JWT · Next.js · PostgreSQL · Docker |
-| 👁️ [**Lumina Vision**](https://github.com/nikkisimhal/lumina-vision) | Face detection app that predicts age & gender in real time | FastAPI · Next.js · SQLAlchemy · Docker |
-| 🤝 [**OperonAI**](https://github.com/nikkisimhal/operonai) *(Internship project)* | Multi-tenant AI agent orchestration platform — visual workflow builder for AI agents | FastAPI · LangGraph · Next.js · ReactFlow |
+| 🧮 [**ScanMatch**](https://github.com/nikkisimhal/resume-matcher-dsa) | Resume ↔ JD compatibility scorer with keyword gap analysis — built from scratch with a Trie, a hand-rolled min-heap, and OOP, zero ML libraries | Flask · Python (Trie, Heap, OOP) |
 
-> 📌 Pin these 4-5 repos on your profile (Repositories tab → Customize pins) so they show up right under this bio.
+> 📌 Pin these repos on your profile (Repositories tab → Customize pins) so they show up right under this bio.
 
 ---
 
@@ -98,5 +97,5 @@ response_time: usually under 24h
 I'm actively interviewing and open to AI Engineer / Software Engineer roles — feel free to reach out if you're hiring or just want to talk shop about agents and RAG pipelines!
 
 <p align="center">
-  <a href="mailto:divya04simhal@gmail.com">📧 divya04simhal@gmail.com@gmail.com</a>
+  <a href="mailto:divya04simhal@gmail.com">📧 divya04simhal@gmail.com</a>
 </p>
