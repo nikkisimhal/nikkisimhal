@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Divya Simhal 👋</h1>
 
-<h3 align="center">AI Engineer in the making 🤖 | Building things with LLMs, agents & full-stack apps</h3>
+<h3 align="center">AI Engineer in the making agents | Building things with LLMs, agents & full-stack apps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nikkisimhal@gmail.com">
+  <a href="mailto:divya04simhal@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://YOUR-PORTFOLIO-LINK.com">
@@ -23,7 +23,7 @@
 - 🔭 Currently **actively looking for opportunities** as an **AI Engineer / Software Engineer**
 - 🌱 Learning by building — every project below taught me something new about agents, RAG, or full-stack architecture
 - 💬 Comfortable across the stack: **FastAPI, Next.js, LangGraph, PostgreSQL, Docker**
-- 📫 Reach me at **nikkisimhal@gmail.com**
+- 📫 Reach me at **divya04simhal@gmail.com.com**
 - ⚡ Fun fact: I'd rather debug a LangGraph loop node at midnight than leave a bug unsolved
 
 ---
@@ -33,7 +33,7 @@
 ```text
 status: Open to work
 looking_for: AI Engineer / Software Engineer / Backend roles
-location: India (Indore / Bhopal)
+location: India 
 response_time: usually under 24h
 ```
 
@@ -98,5 +98,5 @@ response_time: usually under 24h
 I'm actively interviewing and open to AI Engineer / Software Engineer roles — feel free to reach out if you're hiring or just want to talk shop about agents and RAG pipelines!
 
 <p align="center">
-  <a href="mailto:nikkisimhal@gmail.com">📧 nikkisimhal@gmail.com</a>
+  <a href="mailto:divya04simhal@gmail.com">📧 divya04simhal@gmail.com@gmail.com</a>
 </p>
