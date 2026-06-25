@@ -9,7 +9,7 @@
   <a href="mailto:divya04simhal@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://divya-simhal/divya-simhal.github.io/">
+  <a href="https://github.com/divya-simhal/divya-simhal.github.io">
     <img src="https://img.shields.io/badge/Portfolio-FFB000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
@@ -82,12 +82,12 @@ response_time: usually under 24h
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nikkisimhal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikkisimhal&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=divya-simhal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya-simhal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikkisimhal&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=divya-simhal&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
